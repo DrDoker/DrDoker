@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Serhii Tkachenko</h1>
-<h3 align="center">A passionate junior Swift developer 💻.</h3>
+<h3 align="center">A passionate beginner Swift developer 💻.</h3>
 
 
 ## 🚀 About Me
