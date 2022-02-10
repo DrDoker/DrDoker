@@ -28,4 +28,5 @@ My name is Serhii Tkachenko and I am a beginner Swift developer and bla bla bla 
 ## 🔗 Links:
 [Dowload my CV](https://github.com/DrDoker)
 
-![Serhii GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDoker&show_icons=true)
+
+<!-- ![Serhii GitHub Stats](https://github-readme-stats.vercel.app/api?username=DrDoker&show_icons=true) -->
