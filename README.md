@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-My name is Serhii Tkachenko and I am a beginner Swift developer and bla bla bla bla bla
+My name is Serhii Tkachenko and I am a beginner Swift developer who is passionate about mobile app development. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
