@@ -7,7 +7,7 @@ My name is Serhii Tkachenko and I am a beginner Swift developer who is passionat
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DrDoker" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/serhii-tkachenko-141205135/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DrDoker" height="30" width="40" /></a>
   
 <a href="mailto:doker.tk@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
