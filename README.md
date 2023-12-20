@@ -1,30 +1,15 @@
 <h1 align="center">Hi 👋, I'm Serhii Tkachenko</h1>
-<h3 align="center">A passionate junior Swift developer 💻.</h3>
+<h3 align="center">A passionate beginner iOS Developer 💻.</h3>
 
 
 ## 🚀 About Me
-My name is Serhii Tkachenko and I am a junior Swift developer and bla bla bla bla bla
+My name is Serhii Tkachenko. 
+Aspiring iOS developer with a passion for mobile app development and tech background. Constantly learning and progressing in this field for the last with no intention of stopping. 
+I enjoy expanding my knowledge of iOS development by means of enrolling in MobDevFactory boot camp course or working on personal IOS development projects. Driven by passion for the industry and Apple tech I enjoy connecting with other developers and like minded professionals.
+I am a team player with a strong sense of responsibility who looks to proving my skills in practice.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="DrDoker" height="30" width="40" /></a>
-  
-<a href="mailto:doker.tk@gmail.com?"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<h3 align="left">Main Technologies:</h3>
-<p align="left"> 
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-
-</p>
-
-<h3 align="left">Secondary Technologies:</h3>
-<p align="left"> 
-
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-
-</p>
 
 ## 🔗 Links:
-[Dowload my CV](https://github.com/DrDoker)
+<a href="https://github.com/DrDoker/DrDoker/blob/main/CV_Serhii_Tkachenko.pdf" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:doker.tk@gmail.comm"><img src="https://img.shields.io/badge/Email-SERHII-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/doker-tk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Serhii%20Tkachenko-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+
 
